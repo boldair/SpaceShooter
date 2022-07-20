@@ -1,0 +1,34 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\source\\spaceshootermpcpp\\spaceshootermpcppcharacter.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\intermediate\\build\\win64\\spaceshootermpcppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\intermediate\\build\\win64\\unrealeditor\\development\\spaceshootermpcpp\\definitions.spaceshootermpcpp.h",
+            "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\source\\spaceshootermpcpp\\spaceshootermpcppcharacter.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceshootermpcpp\\spaceshootermpcppcharacter.generated.h",
+            "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\source\\spaceshootermpcpp\\spaceshootermpcppprojectile.h",
+            "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceshootermpcpp\\spaceshootermpcppprojectile.generated.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\cameracomponent.generated.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\capsulecomponent.generated.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\inputsettings.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\inputsettings.generated.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\source\\runtime\\engine\\public\\net\\unrealnetwork.h",
+            "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\source\\spaceshootermpcpp\\mpprojectile.h",
+            "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceshootermpcpp\\mpprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

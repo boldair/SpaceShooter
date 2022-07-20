@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SpaceShooterMPcpp.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SpaceShooterMPcpp.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SpaceShooterMPcppEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\ITEM.ipch" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\SpaceShooterMPcpp">
+      <UniqueIdentifier>{C39BB7CE-1DC5-3430-B937-0DCFA6C0A590}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SpaceShooterMPcpp\Item.cpp">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceShooterMPcpp\Item.h">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceShooterMPcpp\MPProjectile.cpp">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceShooterMPcpp\MPProjectile.h">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SpaceShooterMPcpp\SpaceShooterMPcpp.Build.cs">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SpaceShooterMPcpp\SpaceShooterMPcpp.cpp">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceShooterMPcpp\SpaceShooterMPcpp.h">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceShooterMPcpp\SpaceShooterMPcppCharacter.cpp">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceShooterMPcpp\SpaceShooterMPcppCharacter.h">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceShooterMPcpp\SpaceShooterMPcppGameMode.cpp">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceShooterMPcpp\SpaceShooterMPcppGameMode.h">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceShooterMPcpp\SpaceShooterMPcppProjectile.cpp">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceShooterMPcpp\SpaceShooterMPcppProjectile.h">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceShooterMPcpp\TP_PickUpComponent.cpp">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceShooterMPcpp\TP_PickUpComponent.h">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceShooterMPcpp\TP_WeaponComponent.cpp">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceShooterMPcpp\TP_WeaponComponent.h">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceShooterMPcpp\Weapon.cpp">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceShooterMPcpp\Weapon.h">
+      <Filter>Source\SpaceShooterMPcpp</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

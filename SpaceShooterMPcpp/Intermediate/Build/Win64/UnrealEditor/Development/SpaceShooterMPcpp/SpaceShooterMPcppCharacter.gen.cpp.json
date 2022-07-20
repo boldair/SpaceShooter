@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceshootermpcpp\\spaceshootermpcppcharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\intermediate\\build\\win64\\spaceshootermpcppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\intermediate\\build\\win64\\unrealeditor\\development\\spaceshootermpcpp\\definitions.spaceshootermpcpp.h",
+            "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\source\\spaceshootermpcpp\\spaceshootermpcppcharacter.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceshootermpcpp\\spaceshootermpcppcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

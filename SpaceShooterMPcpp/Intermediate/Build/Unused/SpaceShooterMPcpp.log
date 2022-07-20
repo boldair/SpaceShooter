@@ -1,0 +1,53 @@
+﻿  Cleaning SpaceShooterMPcppEditor and UnrealHeaderTool binaries...
+  Using bundled DotNet SDK
+  Log file: C:\Users\Fabian\AppData\Local\UnrealBuildTool\Log.txt
+  Creating makefile for SpaceShooterMPcppEditor (no existing makefile)
+  Parsing headers for SpaceShooterMPcppEditor
+    Running UnrealHeaderTool "D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\SpaceShooterMPcpp.uproject" "D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\SpaceShooterMPcppEditor\Development\SpaceShooterMPcppEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Fabian\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for SpaceShooterMPcppEditor in 49,4713985 seconds
+  Building SpaceShooterMPcppEditor...
+  Using Visual Studio 2019 14.29.30140 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from SpaceShooterMPcpp unity file: Item.cpp, MPProjectile.cpp, SpaceShooterMPcpp.cpp, SpaceShooterMPcppCharacter.cpp, SpaceShooterMPcppGameMode.cpp, SpaceShooterMPcppProjectile.cpp, TP_PickUpComponent.cpp, TP_WeaponComponent.cpp
+  Distributing 21 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  
+  Build ID: {DA20359F-94E3-41D0-AF03-07E6B2942713}
+  
+  --------------------Project: Default-------------------------------------------
+  [1/21] SharedPCH.Engine.ShadowErrors.cpp (1:14.59 at +0:00)
+  [2/21] TP_WeaponComponent.cpp (0:01.78 at +1:14)
+  [3/21] TP_PickUpComponent.cpp (0:01.28 at +1:16)
+  [4/21] SpaceShooterMPcpp.cpp (0:00.73 at +1:17)
+  [5/21] TP_PickUpComponent.gen.cpp (0:01.32 at +1:18)
+  [6/21] MPProjectile.gen.cpp (0:00.85 at +1:19)
+  [7/21] SpaceShooterMPcppProjectile.gen.cpp (0:01.00 at +1:20)
+  [8/21] SpaceShooterMPcppCharacter.cpp (0:01.93 at +1:21)
+  [9/21] SpaceShooterMPcppProjectile.cpp (0:01.10 at +1:23)
+  [10/21] SpaceShooterMPcpp.init.gen.cpp (0:00.73 at +1:24)
+  [11/21] SpaceShooterMPcppCharacter.gen.cpp (0:01.12 at +1:25)
+  [12/21] Item.cpp (0:01.42 at +1:26)
+  [13/21] Item.gen.cpp (0:00.92 at +1:28)
+  [14/21] SpaceShooterMPcppGameMode.gen.cpp (0:01.01 at +1:29)
+  [15/21] MPProjectile.cpp (0:01.50 at +1:30)
+  [16/21] TP_WeaponComponent.gen.cpp (0:00.85 at +1:31)
+  [17/21] Default.rc2 (0:00.14 at +1:32)
+  [18/21] SpaceShooterMPcppGameMode.cpp (0:01.23 at +1:32)
+  [19/21] UnrealEditor-SpaceShooterMPcpp.dll (0:01.29 at +1:33)
+     Création de la bibliothèque D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\UnrealEditor-SpaceShooterMPcpp.suppressed.lib et de l'objet D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\UnrealEditor-SpaceShooterMPcpp.suppressed.exp
+  [20/21] UnrealEditor-SpaceShooterMPcpp.lib (0:00.15 at +1:35)
+     Création de la bibliothèque D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\UnrealEditor-SpaceShooterMPcpp.lib et de l'objet D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\UnrealEditor-SpaceShooterMPcpp.exp
+  [21/21] SpaceShooterMPcppEditor.target (0:01.10 at +1:35)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - License is invalid
+  
+  Total time in XGE executor: 96,74 seconds
+  Total execution time: 174,96 seconds

@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceshootermpcpp\\spaceshootermpcppgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\intermediate\\build\\win64\\spaceshootermpcppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\intermediate\\build\\win64\\unrealeditor\\development\\spaceshootermpcpp\\definitions.spaceshootermpcpp.h",
+            "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\source\\spaceshootermpcpp\\spaceshootermpcppgamemode.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\unreal engine 5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceshootermpcpp\\spaceshootermpcppgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

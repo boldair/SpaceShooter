@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SpaceShooterMPcpp",
+			"Path": "D:\\Unreal Engine 4 projects\\Zombie\\SpaceShooterMPcpp\\Source\\SpaceShooterMPcpp.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SpaceShooterMPcppEditor",
+			"Path": "D:\\Unreal Engine 4 projects\\Zombie\\SpaceShooterMPcpp\\Source\\SpaceShooterMPcppEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

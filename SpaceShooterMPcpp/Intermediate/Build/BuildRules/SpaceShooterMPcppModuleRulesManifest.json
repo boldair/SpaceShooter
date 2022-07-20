@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Engine 4 projects\\Zombie\\SpaceShooterMPcpp\\Source\\SpaceShooterMPcpp\\SpaceShooterMPcpp.Build.cs",
+		"D:\\Unreal Engine 4 projects\\Zombie\\SpaceShooterMPcpp\\Source\\SpaceShooterMPcpp.Target.cs",
+		"D:\\Unreal Engine 4 projects\\Zombie\\SpaceShooterMPcpp\\Source\\SpaceShooterMPcppEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

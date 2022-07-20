@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceshootermpcpp\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\intermediate\\build\\win64\\spaceshootermpcppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\intermediate\\build\\win64\\unrealeditor\\development\\spaceshootermpcpp\\definitions.spaceshootermpcpp.h",
+            "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\source\\spaceshootermpcpp\\tp_weaponcomponent.h",
+            "d:\\unreal engine 4 projects\\zombie\\spaceshootermpcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceshootermpcpp\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

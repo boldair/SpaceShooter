@@ -1,0 +1,29 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SpaceShooterMPcpp.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\SpaceShooterMPcppEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\Item.cpp.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\MPProjectile.cpp.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\SpaceShooterMPcpp.cpp.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\SpaceShooterMPcppCharacter.cpp.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\SpaceShooterMPcppGameMode.cpp.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\SpaceShooterMPcppProjectile.cpp.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\TP_PickUpComponent.cpp.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\TP_WeaponComponent.cpp.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\Weapon.cpp.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\Item.gen.cpp.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\MPProjectile.gen.cpp.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\SpaceShooterMPcpp.init.gen.cpp.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\SpaceShooterMPcppCharacter.gen.cpp.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\SpaceShooterMPcppGameMode.gen.cpp.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\SpaceShooterMPcppProjectile.gen.cpp.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\TP_PickUpComponent.gen.cpp.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\TP_WeaponComponent.gen.cpp.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\Weapon.gen.cpp.obj"
+"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\Default.rc2.res"
+/OUT:"D:\Unreal Engine 4 projects\Zombie\SpaceShooterMPcpp\Intermediate\Build\Win64\UnrealEditor\Development\SpaceShooterMPcpp\UnrealEditor-SpaceShooterMPcpp.lib"
